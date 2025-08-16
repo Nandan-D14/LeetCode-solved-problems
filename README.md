@@ -8,9 +8,9 @@ Each problem has its own **README-style explanation** along with **code solution
 
 ## 📂 Problem Solutions
 
-| #  | Daily Problem | File |
-|----|----------|------|
-| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16) | [1323-maximum-69-number.java](./1323_Maximum_69_Number.md) |
+| #  | Daily Problem | File | Language |
+|----|----------|------|--------|
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16) | [1323-maximum-69-number](./1323_Maximum_69_Number.md) | Java |
 
 ---
 
