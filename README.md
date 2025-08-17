@@ -11,6 +11,7 @@ Each problem has its own **README-style explanation** along with **code solution
 | #  | Daily Problem | File | Language |
 |----|----------|------|--------|
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16) | [1323-maximum-69-number](./1323_Maximum_69_Number.md) | Java |
+| 827  | [837-New 21 Game](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17) | [837-New 21 Game](./837_ New_21_Game.md) | Java | 
 
 ---
 
