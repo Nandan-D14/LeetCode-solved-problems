@@ -58,6 +58,7 @@ We use **Dynamic Programming (DP)** with a **sliding window** optimization.
 ## 🧑‍💻 Java Solution
 
 ```java
+// java
 class Solution {
     public double new21Game(int n, int k, int maxPts) {
         if (k == 0 || n >= k + maxPts - 1) return 1.0;
@@ -98,11 +99,4 @@ class Solution {
 
 ## 🔗 Resources
 
-* [LeetCode Problem Link](https://leetcode.com/problems/new-21-game/)
-
-```
-
----
-
-Do you also want me to **auto-generate links for uploaded solutions in your repo** (like `[Solution.java](./Solution.java)`) so every file you push shows up clickable in the README?
-```
+* [LeetCode Problem Link](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17)
