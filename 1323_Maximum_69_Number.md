@@ -85,6 +85,7 @@ This greedy strategy ensures maximum result.
 ## 🚀 Java Solution
 
 ```java
+// java
 class Solution {
     public int maximum69Number (int num) {
         char[] digits = String.valueOf(num).toCharArray();
@@ -113,6 +114,7 @@ class Solution {
 ## 🔥 Alternate Math-only Approach (No Strings)
 
 ```java
+// java
 class Solution {
     public int maximum69Number (int num) {
         int temp = num;
