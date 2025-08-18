@@ -11,8 +11,8 @@ Each problem has its own **README-style explanation** along with **code solution
 | #  | Daily Problem | File | Language | Level |
 |----|----------|------|--------|------|
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16) | [1323-maximum-69-number](./1323_Maximum_69_Number.md) | Java | Easy |
-| 827  | [837-New 21 Game](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17) | [837-New 21 Game](.837_%20New_21_Game.md) | Java | Medium |
-
+| 827  | [New 21 Game](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17) | [837-New 21 Game](./837_%20New_21_Game.md) | Java | Medium |
+| 699 | [24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18) | [679. 24 Game](./679_24_Game.md) | Java | Hard |
 ---
 
 ## 📘 How to Use
