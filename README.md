@@ -14,6 +14,8 @@ Each problem has its own **README-style explanation** along with **code solution
 | 827  | [New 21 Game](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17) | [837-New 21 Game](./837_%20New_21_Game.md) | Java | 🟡 |
 | 699 | [24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18) | [679. 24 Game](./679_24_Game.md) | Java | 🔴 |
 | 2348 | [Number of ZeroFilledSubarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19) | [234_Number_of_ZeroFilledSubarrays.md](./234_Number_of_ZeroFilledSubarrays.md) | Java | 🟡 |
+| 4 | [Median of Two ortedArraysSolved](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [4-Median_of_Two_SortedArraysSolved](./4_Median_of_Two_SortedArraysSolved.md) | Java | 🔴 |
+
 ---
 
 ## 📘 How to Use
